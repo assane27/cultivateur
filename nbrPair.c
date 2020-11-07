@@ -2,7 +2,7 @@
 
 int main( ){
 int a;
-printf( "veiller saisir une valeur:\n");
+printf( "veiller saisir une valeur");
 scanf("%d",&a);
 if( a%2==0){
     printf("la valeur %d est paire",a);
